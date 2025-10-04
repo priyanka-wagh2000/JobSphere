@@ -1,10 +1,10 @@
 import React from 'react'
-import logo1 from './google.png'
-import logo2 from './microsoft.png'
-import logo3 from './wipro.png'
-import logo4 from './tcs.png'
-import logo5 from './accenture.png'
-import logo6 from './amazon.png'
+import logo1 from '../assets/Images/google.png'
+import logo2 from '../assets/Images/microsoft.png'
+import logo3 from '../assets/Images/wipro.png'
+import logo4 from '../assets/Images/tcs.png'
+import logo5 from '../assets/Images/accenture.png'
+import logo6 from '../assets/Images/amazon.png'
 
 
 function Companies() {
